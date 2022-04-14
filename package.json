@@ -1,0 +1,25 @@
+{
+  "name": "cripto-bot",
+  "version": "1.0.0",
+  "description": "Verifying Bitcoin bot Application",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yceman/cripto-bot.git"
+  },
+  "keywords": [
+    "Cripto"
+  ],
+  "author": "Marcos Morais",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yceman/cripto-bot/issues"
+  },
+  "homepage": "https://github.com/yceman/cripto-bot#readme",
+  "dependencies": {
+    "axios": "^0.25.0"
+  }
+}
